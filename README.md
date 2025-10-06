@@ -1,4 +1,4 @@
-# Spring Demo
+# Spring
 Aplicação simples desenvolvida com Spring Boot para fins de aprendizado.
 
 ## Objetivo:
